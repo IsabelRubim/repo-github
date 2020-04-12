@@ -1,6 +1,6 @@
 # repo-github
 
-App para guardar seus repositórios favoritos :cloud: :tada:
+App para guardar seus repositórios favoritos: [Repo GitHub](https://repogithub.netlify.com/) :cloud: :tada:
 
 ![repo-github](https://i.imgur.com/gxJLYdU.png)
 
